@@ -10,27 +10,28 @@ With the rise in the variety of cars with differentiated capabilities and featur
 
 Train.csv - 19237 rows x 18 columns (Includes Price Columns as Target)
 Attributes
+Test.csv - 8245 rows x 17 columns
 
     * ID
     * Price: price of the care(Target Column)
     * Levy
-    Manufacturer
-    Model
-    Prod. year
-    Category
-    Leather interior
-    Fuel type
-    Engine volume
-    Mileage
-    Cylinders
-    Gear box type
-    Drive wheels
-    Doors
-    Wheel
-    Color
-    Airbags
+    * Manufacturer
+    * Model
+    * Prod. year
+    * Category
+    * Leather interior
+    * Fuel type
+    * Engine volume
+    * Mileage
+    * Cylinders
+    * Gear box type
+    * Drive wheels
+    * Doors
+    * Wheel
+    * Color
+    * Airbags
 
-Test.csv - 8245 rows x 17 columns
+
 
 ## Technical Aspect
 
