@@ -2,6 +2,8 @@
 
 ## Overview
 
+![car_price](https://user-images.githubusercontent.com/42634704/126543070-89eb0aa8-7eeb-4d59-9a3e-11f6e0288196.jpg)
+
 
 
 ## About Data
@@ -37,7 +39,15 @@ Attributes
 
 ## Technical Aspect
 
+    * Multivariate Regression
+    * Big dataset, underfitting vs overfitting
+    * Optimizing RMSLE to generalize well on unseen data
+
 ## Evaluation
+
+* The submission will be evaluated using the RMSLE metric. One can use np.sqrt(mean_squared_log_error(actual, predicted)) to calculate the same
+* This hackathon supports private and public leaderboards
+* The public leaderboard is evaluated on 70% of Test data
 
 ## Credits
 
